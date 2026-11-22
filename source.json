@@ -1,0 +1,35 @@
+{
+  "name": "The Mind Crew",
+  "identifier": "org.drivecrew.prototype.sidestore",
+  "sourceURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/source.json",
+  "iconURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/icon.png",
+  "apps": [
+    {
+      "name": "The Mind Crew",
+      "bundleIdentifier": "org.drivecrew.prototype",
+      "developerName": "The Mind Crew",
+      "subtitle": "Play • Focus • React • Discover",
+      "localizedDescription": "Join five space-station crewmates for recreational games about attention, reaction time and memory. Each challenge includes its research inspiration and limitations. Your optional history stays on your iPhone. These games cannot determine impairment or fitness to drive.",
+      "iconURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/icon.png",
+      "tintColor": "#193348",
+      "version": "1.1",
+      "versionDate": "2026-11-22T14:28:23Z",
+      "versionDescription": "Five offline games, optional check-ins, personal game history and a science library.",
+      "size": 3694765,
+      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.1-2.ipa",
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-11-22T14:28:23Z",
+          "localizedDescription": "Five offline games, optional check-ins, personal game history and a science library.",
+          "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.1-2.ipa",
+          "size": 3694765,
+          "minOSVersion": "26.0",
+          "sha256": "c2e57d4372c7ce906b673407c7511cad780dcdefa33ecdc357da48ba65111ddc"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
