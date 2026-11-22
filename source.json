@@ -12,12 +12,22 @@
       "localizedDescription": "Join five space-station crewmates for recreational games about attention, reaction time and memory. Each challenge includes its research inspiration and limitations. Your optional history stays on your iPhone. These games cannot determine impairment or fitness to drive.",
       "iconURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/icon.png",
       "tintColor": "#193348",
-      "version": "1.1",
-      "versionDate": "2026-11-22T14:28:23Z",
-      "versionDescription": "Five offline games, optional check-ins, personal game history and a science library.",
-      "size": 3694765,
-      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.1-2.ipa",
+      "version": "1.2",
+      "versionDate": "2026-11-22T18:24:43Z",
+      "versionDescription": "Slide or tap the Liquid Glass bar to switch between Arcade, Crew, Progress and Science. Each section remembers where you were. The bar steps aside during all five games.",
+      "size": 3770902,
+      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2-3.ipa",
       "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-11-22T18:24:43Z",
+          "localizedDescription": "Slide or tap the Liquid Glass bar to switch between Arcade, Crew, Progress and Science. Each section remembers where you were. The bar steps aside during all five games.",
+          "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2-3.ipa",
+          "size": 3770902,
+          "minOSVersion": "26.0",
+          "sha256": "c1e1cfd8b95241268e694db55ca1924aa2150bfe83445e35480a315c6a7298de"
+        },
         {
           "version": "1.1",
           "buildVersion": "2",
