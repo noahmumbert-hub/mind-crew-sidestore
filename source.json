@@ -12,12 +12,22 @@
       "localizedDescription": "Join five space-station crewmates for recreational games about attention, reaction time and memory. Each challenge includes its research inspiration and limitations. Your optional history stays on your iPhone. These games cannot determine impairment or fitness to drive.",
       "iconURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/icon.png",
       "tintColor": "#193348",
-      "version": "1.2",
-      "versionDate": "2026-11-22T18:24:43Z",
-      "versionDescription": "Slide or tap the Liquid Glass bar to switch between Arcade, Crew, Progress and Science. Each section remembers where you were. The bar steps aside during all five games.",
-      "size": 3770902,
-      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2-3.ipa",
+      "version": "1.2.1",
+      "versionDate": "2026-11-22T19:49:04Z",
+      "versionDescription": "Apple’s iOS 26 Liquid Glass tab bar now handles taps and slides between Arcade, Crew, Progress and Science. Start, check-in and other actions also use Apple’s glass button styles.",
+      "size": 3743110,
+      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2.1-4.ipa",
       "versions": [
+        {
+          "version": "1.2.1",
+          "buildVersion": "4",
+          "date": "2026-11-22T19:49:04Z",
+          "localizedDescription": "Apple’s iOS 26 Liquid Glass tab bar now handles taps and slides between Arcade, Crew, Progress and Science. Start, check-in and other actions also use Apple’s glass button styles.",
+          "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2.1-4.ipa",
+          "size": 3743110,
+          "minOSVersion": "26.0",
+          "sha256": "25e435162aa6f160ff0182c830d50e85369c5808c8ac1f96f7d2c8b7a0616628"
+        },
         {
           "version": "1.2",
           "buildVersion": "3",
