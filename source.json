@@ -12,12 +12,22 @@
       "localizedDescription": "Join five space-station crewmates for recreational games about attention, reaction time and memory. Each challenge includes its research inspiration and limitations. Your optional history stays on your iPhone. These games cannot determine impairment or fitness to drive.",
       "iconURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/icon.png",
       "tintColor": "#193348",
-      "version": "1.2.1",
-      "versionDate": "2026-11-22T19:49:04Z",
-      "versionDescription": "Apple’s iOS 26 Liquid Glass tab bar now handles taps and slides between Arcade, Crew, Progress and Science. Start, check-in and other actions also use Apple’s glass button styles.",
-      "size": 3743110,
-      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.2.1-4.ipa",
+      "version": "1.3",
+      "versionDate": "2026-11-23T16:41:01Z",
+      "versionDescription": "Compare your reaction time with a published student sample in an optional eight-signal round. All five arcade games support local guest averages. The welcome and Arcade logos have revised lettering.",
+      "size": 3830301,
+      "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.3-5.ipa",
       "versions": [
+        {
+          "version": "1.3",
+          "buildVersion": "5",
+          "date": "2026-11-23T16:41:01Z",
+          "localizedDescription": "Compare your reaction time with a published student sample in an optional eight-signal round. All five arcade games support local guest averages. The welcome and Arcade logos have revised lettering.",
+          "downloadURL": "https://raw.githubusercontent.com/noahmumbert-hub/mind-crew-sidestore/main/The-Mind-Crew-1.3-5.ipa",
+          "size": 3830301,
+          "minOSVersion": "26.0",
+          "sha256": "ab20f0f3a306280ffa13d8fc0e24d75322b7c4c0398e7c1c5c3b8715a31bff7d"
+        },
         {
           "version": "1.2.1",
           "buildVersion": "4",
